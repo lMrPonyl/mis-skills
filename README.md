@@ -51,3 +51,8 @@ Las licencias originales están en [`licenses/`](licenses/).
 
 **Vienen de mi cuenta de claude.ai (no hace falta copiarlas aquí):** Remotion, video-shotcraft, Superdesign,
 Design Council, Codesign, Website Design, system-design-skills y las skills de Emil Kowalski (audit-suite).
+
+### Script de arranque listo
+
+El contenido de [`cloud-setup.sh`](cloud-setup.sh) es lo que va en **Setup script**. Instala las skills si el repo
+está adjunto a la sesión o, si el repo es público, lo clona. Si falla, la sesión sigue sin las skills.
