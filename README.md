@@ -45,6 +45,7 @@ git clone --depth 1 https://github.com/lMrPonyl/mis-skills ~/mis-skills && ~/mis
 | `taste-skill` | Dirección de arte anti "hecho por IA" para webs | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) · MIT |
 | `hyperframes`, `hyperframes-cli`, `hyperframes-registry` | Videos con HTML: crear, renderizar, ~450 bloques | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) · Apache-2.0 |
 | `remotion-to-hyperframes`, `slideshow`, `figma`, `media-use` | Migrar desde Remotion, presentaciones, Figma, música/voz/imágenes | ídem |
+| `brag-slim` | Video de lanzamiento corto (~20s) de un proyecto o una web, con música y texto para compartir | [latent-spaces/brag](https://github.com/latent-spaces/brag) · MIT |
 | `motion-doctrine`, `cut-the-curve`, `seam-craft`, `oversized-cursor`, `captions-overlay`, `changelog-video` | Lenguaje de movimiento y transiciones, subtítulos, video de changelog | ídem |
 
 Las licencias originales están en [`licenses/`](licenses/).

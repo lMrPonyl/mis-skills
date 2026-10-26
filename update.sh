@@ -22,4 +22,7 @@ for d in motion-doctrine seam-craft cut-the-curve captions-overlay changelog-vid
   sync "$TMP/hyperframes/.claude/skills/$d" "$d"
 done
 
+fetch latent-spaces/brag brag
+sync "$TMP/brag/skills/brag-slim" brag-slim
+
 echo "Actualizado. Revisa con: git -C \"$REPO\" status"
