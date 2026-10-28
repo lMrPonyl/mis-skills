@@ -25,4 +25,7 @@ done
 fetch latent-spaces/brag brag
 sync "$TMP/brag/skills/brag-slim" brag-slim
 
+fetch JuliusBrussee/caveman caveman
+for d in caveman ultracave megacave; do sync "$TMP/caveman/skills/$d" "$d"; done
+
 echo "Actualizado. Revisa con: git -C \"$REPO\" status"
