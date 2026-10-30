@@ -47,6 +47,7 @@ git clone --depth 1 https://github.com/lMrPonyl/mis-skills ~/mis-skills && ~/mis
 | `remotion-to-hyperframes`, `slideshow`, `figma`, `media-use` | Migrar desde Remotion, presentaciones, Figma, música/voz/imágenes | ídem |
 | `brag-slim` | Video de lanzamiento corto (~20s) de un proyecto o una web, con música y texto para compartir | [latent-spaces/brag](https://github.com/latent-spaces/brag) · MIT |
 | `caveman`, `ultracave`, `megacave` | Respuestas ultra cortas para gastar menos tokens (`/caveman`, `stop caveman`) | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) · Apache-2.0 / MIT |
+| `ui-ux-pro-max`, `ui-styling`, `design-system`, `design`, `brand`, `banner-design`, `slides` | Base de datos de estilos, paletas, fuentes y guías UX; shadcn/Tailwind; logos, marca, banners | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · MIT |
 | `motion-doctrine`, `cut-the-curve`, `seam-craft`, `oversized-cursor`, `captions-overlay`, `changelog-video` | Lenguaje de movimiento y transiciones, subtítulos, video de changelog | ídem |
 
 Las licencias originales están en [`licenses/`](licenses/).

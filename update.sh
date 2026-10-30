@@ -28,4 +28,7 @@ sync "$TMP/brag/skills/brag-slim" brag-slim
 fetch JuliusBrussee/caveman caveman
 for d in caveman ultracave megacave; do sync "$TMP/caveman/skills/$d" "$d"; done
 
+fetch nextlevelbuilder/ui-ux-pro-max-skill uiux
+for d in ui-ux-pro-max ui-styling design-system design brand banner-design slides; do sync "$TMP/uiux/.claude/skills/$d" "$d"; done
+
 echo "Actualizado. Revisa con: git -C \"$REPO\" status"
