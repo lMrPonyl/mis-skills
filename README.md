@@ -49,6 +49,7 @@ git clone --depth 1 https://github.com/lMrPonyl/mis-skills ~/mis-skills && ~/mis
 | `caveman`, `ultracave`, `megacave` | Respuestas ultra cortas para gastar menos tokens (`/caveman`, `stop caveman`) | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) · Apache-2.0 / MIT |
 | `ui-ux-pro-max`, `ui-styling`, `design-system`, `design`, `brand`, `banner-design`, `slides` | Base de datos de estilos, paletas, fuentes y guías UX; shadcn/Tailwind; logos, marca, banners | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · MIT |
 | `motion-doctrine`, `cut-the-curve`, `seam-craft`, `oversized-cursor`, `captions-overlay`, `changelog-video` | Lenguaje de movimiento y transiciones, subtítulos, video de changelog | ídem |
+| `ponytail`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `ponytail-gain`, `ponytail-help` | Modo "senior perezoso": la solución más simple que funciona (`/ponytail`, `stop ponytail`), revisión y auditoría de código | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) · MIT |
 
 Las licencias originales están en [`licenses/`](licenses/).
 
